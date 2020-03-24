@@ -1,4 +1,4 @@
-﻿{
+{
 	"Name": "Large Chest",
 	"Description": "A large place to store your items.",
 	"Recipe": {
@@ -28,7 +28,7 @@
 		//"it": "", //Italian
 		//"ja": "", //Japanese
 		//"pt": "", //Portuguese
-		//"ru": "", //Russian
+		"ru": "Большой сундук", //Russian
 		//"tr": "", //Turkish
 		"zh": "大箱子" //Chinese (Simplified)
 	},
@@ -41,7 +41,7 @@
 		//"it": "", //Italian
 		//"ja": "", //Japanese
 		//"pt": "", //Portuguese
-		//"ru": "", //Russian
+		"ru": "Достаточно большое место для хранения ваших предметов.", //Russian
 		//"tr": "", //Turkish
 		"zh": "一个比默认箱子更大的大箱子，用于存放更多物品。" //Chinese (Simplified)
 	}
