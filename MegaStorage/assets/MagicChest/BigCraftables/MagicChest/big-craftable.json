@@ -1,4 +1,4 @@
-﻿{
+{
 	"Name": "Magic Chest",
 	"Description": "A magical place to store your items.",
 	"Recipe": {
@@ -36,7 +36,7 @@
 		//"it": "", //Italian
 		//"ja": "", //Japanese
 		//"pt": "", //Portuguese
-		//"ru": "", //Russian
+		"ru": "Магический сундук", //Russian
 		//"tr": "", //Turkish
 		"zh": "魔法宝箱" //Chinese (Simplified)
 	},
@@ -49,7 +49,7 @@
 		//"it": "", //Italian
 		//"ja": "", //Japanese
 		//"pt": "", //Portuguese
-		//"ru": "", //Russian
+		"ru": "Невероятно-магическое место для хранения ваших предметов.", //Russian
 		//"tr": "", //Turkish
 		"zh": "一个神奇的魔法宝箱，存储容量无限。" //Chinese (Simplified)
 	}
